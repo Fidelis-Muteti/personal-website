@@ -1,3 +1,33 @@
 body {
-    background: blue;
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+
 }
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#navbar .navlist {
+    list-style: none;
+    display: flex;
+    
+}
+.nav-1 {
+    margin: 20px;
+
+}
+#pg-1 {
+    width: 60%;
+  text-align: center;
+  margin: 20px auto;  
+}
+figcaption {
+    text-align: center;
+    font-size: 0.8em;
+    color: #666;
+  }
