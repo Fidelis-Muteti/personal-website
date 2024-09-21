@@ -1,5 +1,5 @@
 body {
-    background: lightgray;
+    background: wheat;
     font-family: Arial, Helvetica, sans-serif;
     color: #666;
 
@@ -18,16 +18,24 @@ body {
     
 }
 .nav-1 {
-    margin: 20px;
+    margin: 18px; 
 
 }
 #pg-1 {
     width: 60%;
   text-align: center;
-  margin: 20px auto;  
+  margin: 70px auto;  
 }
 figcaption {
     text-align: center;
     font-size: 0.8em;
     color: #666;
+  }
+  #main-header {
+    background-color: lightgoldenrodyellow;
+    width: 100vw;
+    height: 70px;
+    top: 0;
+    position: fixed;
+    left: 0;
   }
