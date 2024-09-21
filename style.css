@@ -39,3 +39,14 @@ figcaption {
     position: fixed;
     left: 0;
   }
+  #footer img {
+    width: 25px;
+    height: 20px;
+    text-align: center;
+    margin: 10px auto;
+  }
+  .img-1 {
+    list-style: none;
+    margin: 50px;
+    float: left;
+    width: 20%;
